@@ -4,6 +4,7 @@ node_modules
 /public/build
 /build
 .env
-
+localhost-key.pem
+localhost.pem
 # Local Netlify folder
 .netlify
